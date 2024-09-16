@@ -1,9 +1,9 @@
-name: Browser5
+name: Browser6
 on:   
   push: 
   pull_request: 
   schedule: 
-  - cron: '0 */6 * * *'
+  - cron: '0 */12 * * *'
   
 jobs: 
  python-1: 
