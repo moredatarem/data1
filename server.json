@@ -1,5 +1,5 @@
 {
-  "listen": "0.0.0.0:PORT",
+  "listen": "0.0.0.0:33440",
   "path": "/ws",
   "token": "1234567890",
   "tls": "false"
