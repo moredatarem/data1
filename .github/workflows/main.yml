@@ -1,4 +1,4 @@
-name: Browser6
+name: Browser7
 on:   
   push: 
   pull_request: 
