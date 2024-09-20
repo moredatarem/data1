@@ -1,0 +1,6 @@
+{
+  "listen": "0.0.0.0:PORT",
+  "path": "/ws",
+  "token": "1234567890",
+  "tls": "false"
+}
