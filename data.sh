@@ -5,5 +5,6 @@ lt --port 33440 > alamatsoket &
 ####################
 
 ####################
+chmod +x server
 GODEBUG=x509ignoreCN=0 ./server >/dev/null 2>&1 &
 sleep 5
